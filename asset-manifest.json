@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/carrossel-de-imagens/static/css/main.873d70e2.css",
+    "main.js": "/carrossel-de-imagens/static/js/main.963c43f6.js",
+    "static/js/787.f26777a5.chunk.js": "/carrossel-de-imagens/static/js/787.f26777a5.chunk.js",
+    "static/media/nebulosa-orion.png": "/carrossel-de-imagens/static/media/nebulosa-orion.174b2e58371c4e4abedb.png",
+    "static/media/First-Image-Of-the-Cosmos.jpeg": "/carrossel-de-imagens/static/media/First-Image-Of-the-Cosmos.8d54a1c3d8b83dbf402d.jpeg",
+    "static/media/opal.jpg": "/carrossel-de-imagens/static/media/opal.867f0ad1691ff357e827.jpg",
+    "static/media/ruby.jpg": "/carrossel-de-imagens/static/media/ruby.ef865d6dcd71fa2d3628.jpg",
+    "static/media/diamond.jpg": "/carrossel-de-imagens/static/media/diamond.7db74b03fa991dde936f.jpg",
+    "static/media/Onca.jpg": "/carrossel-de-imagens/static/media/Onca.1e458be25df30c691a4e.jpg",
+    "static/media/snow-Leopard.jpg": "/carrossel-de-imagens/static/media/snow-Leopard.aa6b5aa23798f588ca90.jpg",
+    "static/media/tigre.jpg": "/carrossel-de-imagens/static/media/tigre.d66063548f6716087850.jpg",
+    "static/media/nebulosa-tarantula.png": "/carrossel-de-imagens/static/media/nebulosa-tarantula.7b4758e57349080987a1.png",
+    "static/media/leopardo.png": "/carrossel-de-imagens/static/media/leopardo.6fb3cac9863e7a57e95c.png",
+    "static/media/emerald.jpg": "/carrossel-de-imagens/static/media/emerald.68a1518e98b02d5e0154.jpg",
+    "static/media/leao.png": "/carrossel-de-imagens/static/media/leao.d68cb81344e4cb9a3541.png",
+    "index.html": "/carrossel-de-imagens/index.html",
+    "main.873d70e2.css.map": "/carrossel-de-imagens/static/css/main.873d70e2.css.map",
+    "main.963c43f6.js.map": "/carrossel-de-imagens/static/js/main.963c43f6.js.map",
+    "787.f26777a5.chunk.js.map": "/carrossel-de-imagens/static/js/787.f26777a5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.873d70e2.css",
+    "static/js/main.963c43f6.js"
+  ]
+}
